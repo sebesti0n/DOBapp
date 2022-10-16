@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Age in Minutes</string>
+    <string name="btn_name">SELECT DATE</string>
+    <string name="t3_name">Minutes</string>
+</resources>
